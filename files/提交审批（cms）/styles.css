@@ -1328,7 +1328,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:53px;
+  width:56px;
   height:17px;
 }
 #u203 {
@@ -1336,7 +1336,7 @@
   position:absolute;
   left:118px;
   top:82px;
-  width:52px;
+  width:55px;
   height:16px;
 }
 #u204 {
@@ -1344,7 +1344,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:52px;
+  width:55px;
   white-space:nowrap;
 }
 #u205 {
@@ -1454,6 +1454,121 @@
   word-wrap:break-word;
 }
 #u212_input {
+  border-width:0px;
+  position:absolute;
+  left:-3px;
+  top:-2px;
+}
+#u214 {
+  border-width:0px;
+  position:absolute;
+  left:205px;
+  top:270px;
+  width:100px;
+  height:16px;
+}
+#u215 {
+  border-width:0px;
+  position:absolute;
+  left:16px;
+  top:0px;
+  width:82px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u214_input {
+  border-width:0px;
+  position:absolute;
+  left:-3px;
+  top:-2px;
+}
+#u216 {
+  border-width:0px;
+  position:absolute;
+  left:205px;
+  top:302px;
+  width:100px;
+  height:16px;
+}
+#u217 {
+  border-width:0px;
+  position:absolute;
+  left:16px;
+  top:0px;
+  width:82px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u216_input {
+  border-width:0px;
+  position:absolute;
+  left:-3px;
+  top:-2px;
+}
+#u218 {
+  border-width:0px;
+  position:absolute;
+  left:205px;
+  top:336px;
+  width:100px;
+  height:16px;
+}
+#u219 {
+  border-width:0px;
+  position:absolute;
+  left:16px;
+  top:0px;
+  width:82px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u218_input {
+  border-width:0px;
+  position:absolute;
+  left:-3px;
+  top:-2px;
+}
+#u220 {
+  border-width:0px;
+  position:absolute;
+  left:205px;
+  top:408px;
+  width:100px;
+  height:16px;
+}
+#u221 {
+  border-width:0px;
+  position:absolute;
+  left:16px;
+  top:0px;
+  width:82px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u220_input {
+  border-width:0px;
+  position:absolute;
+  left:-3px;
+  top:-2px;
+}
+#u222 {
+  border-width:0px;
+  position:absolute;
+  left:205px;
+  top:373px;
+  width:100px;
+  height:16px;
+}
+#u223 {
+  border-width:0px;
+  position:absolute;
+  left:16px;
+  top:0px;
+  width:82px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u222_input {
   border-width:0px;
   position:absolute;
   left:-3px;
